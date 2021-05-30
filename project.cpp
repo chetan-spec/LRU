@@ -67,10 +67,10 @@ int main()
 
 	ca.refer(1);
 	ca.refer(2);
-	ca.refer(3);
-	ca.refer(1);
 	ca.refer(4);
-	ca.refer(5);
+	ca.refer(8);
+	ca.refer(7);
+	ca.refer(6);
 	ca.display();
 
 	return 0;
